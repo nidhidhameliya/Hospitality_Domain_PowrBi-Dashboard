@@ -27,7 +27,8 @@ The Power BI dashboard created in this project includes:
 4. **Customer Patterns**: Insights into customer preferences, room choices, and booking behaviors.
 
 ### **Screenshots**
-![Screenshot 2024-11-18 141343](https://github.com/user-attachments/assets/5f430a02-24d7-45b0-950e-eb5f54a76854)
+![Screenshot 2024-11-18 141309](https://github.com/user-attachments/assets/8fa04464-f0d2-4aa2-b54e-62b68f72ef86)
+
 ![Screenshot 2024-11-18 141343](https://github.com/user-attachments/assets/ba474f6b-d81a-4a0d-bd3b-d41275312561)
 
 
